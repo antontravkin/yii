@@ -1,4 +1,1 @@
-# yii
-
-#test
-#hello
+# yii test 1.0
