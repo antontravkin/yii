@@ -79,6 +79,16 @@ class SiteController extends Controller
     }
 
     /**
+     * Displays hello epage.
+     *
+     * @return mixed
+     */
+    public function actionHello()
+    {
+        return $this->render('hello');
+    }
+
+    /**
      * Logs in a user.
      *
      * @return mixed
